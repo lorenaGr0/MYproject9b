@@ -1,0 +1,22 @@
+{
+  "name": "MyProject",
+  "authors": [
+    "lorenaGr0 <lorenaantonia.chipahua@alumno.uttehuacan.edu.mx>"
+  ],
+  "description": "MyPrimary",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "fontawesome": "^5.8.2"
+  }
+}
